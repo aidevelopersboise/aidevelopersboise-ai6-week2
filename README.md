@@ -2,7 +2,7 @@
 
 ```
 Date: March 19, 2018
-AI Satrudays
+AI Satrudays, Workshop 2
 AI Developers, Boise
 ```
 
