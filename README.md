@@ -11,3 +11,7 @@ Workshop material for week 2
 - Beginners level tutorial on Numpy
 - Beginners level tutorial on Pandas
 - Tutorial on Linear Regression (Naive Implementation and Intuition)
+    - Linera Regression Intuition
+    - Univariate Linear Regression
+    - Linear regression using Matrix Multiplication
+- Linear Algebra - data generation simulation and demonstration 
